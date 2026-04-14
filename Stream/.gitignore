@@ -1,0 +1,6 @@
+# ignore node module
+node_modules/
+
+#ignore all txt files expact one
+8mb.txt
+sample.txt
